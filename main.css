@@ -1,4 +1,10 @@
 /* Fortune Cookie Generator Styles */
+body {
+background: url("backgroundF.jpg");
+background-size: cover;
+color: purple;
+background-image: backgroundf.jpg;
+}
 
 html {
     text-align: center;
@@ -10,4 +16,8 @@ html {
     border: 1px solid #666;
     padding: 1em;
     margin: 1em;
+}
+
+.generate-button {
+  color: blue;
 }
